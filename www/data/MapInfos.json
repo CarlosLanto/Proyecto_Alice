@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Casa de Alice","order":2,"parentId":2,"scrollX":1221.6,"scrollY":918},
+{"id":2,"expanded":true,"name":"Mapas - Casa de Alice","order":1,"parentId":0,"scrollX":855.4285714285713,"scrollY":516.8571428571428},
+{"id":3,"expanded":true,"name":"Loquero","order":3,"parentId":0,"scrollX":1072,"scrollY":1039},
+{"id":4,"expanded":true,"name":"Recepcion","order":4,"parentId":3,"scrollX":998,"scrollY":603},
+{"id":5,"expanded":false,"name":"Consultorio","order":6,"parentId":3,"scrollX":841.7142857142857,"scrollY":1099.7142857142856},
+{"id":6,"expanded":false,"name":"Hospital","order":8,"parentId":0,"scrollX":1071,"scrollY":1182.5},
+{"id":7,"expanded":false,"name":"Baño","order":5,"parentId":3,"scrollX":998,"scrollY":603},
+{"id":8,"expanded":false,"name":"Sotano loquero","order":7,"parentId":3,"scrollX":920.5714285714286,"scrollY":503.1428571428571},
+{"id":9,"expanded":true,"name":"Presentación del Juego","order":9,"parentId":0,"scrollX":855.4285714285713,"scrollY":516.8571428571428},
+{"id":10,"expanded":false,"name":"Sotano loquero","order":10,"parentId":9,"scrollX":1159.2,"scrollY":534}
+]
