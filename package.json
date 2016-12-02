@@ -2,9 +2,10 @@
     "name": "KADOKAWA/RPGMV",
     "main": "www/index.html",
     "js-flags": "--expose-gc",
+    "chromium-args": "--ignore-gpu-blacklist",
     "window": {
         "title": "",
-        "toolbar": false,
+        "toolbar": true,
         "width": 816,
         "height": 624,
         "icon": "www/icon/icon.png"
