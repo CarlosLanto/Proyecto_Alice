@@ -1,13 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Casa de Alice","order":2,"parentId":2,"scrollX":982,"scrollY":934},
-{"id":2,"expanded":true,"name":"Mapas - Casa de Alice","order":1,"parentId":0,"scrollX":855.4285714285713,"scrollY":516.8571428571428},
-{"id":3,"expanded":true,"name":"Loquero","order":3,"parentId":0,"scrollX":1072,"scrollY":1039},
-{"id":4,"expanded":true,"name":"Recepcion","order":4,"parentId":3,"scrollX":998,"scrollY":906},
-{"id":5,"expanded":false,"name":"Consultorio","order":6,"parentId":3,"scrollX":982,"scrollY":1014},
-{"id":6,"expanded":false,"name":"Hospital","order":8,"parentId":0,"scrollX":1071,"scrollY":1182.5},
-{"id":7,"expanded":false,"name":"Baño","order":5,"parentId":3,"scrollX":998,"scrollY":906},
-{"id":8,"expanded":false,"name":"Sotano loquero","order":7,"parentId":3,"scrollX":920.5714285714286,"scrollY":503.1428571428571},
-{"id":9,"expanded":true,"name":"Presentación del Juego","order":9,"parentId":0,"scrollX":855.4285714285713,"scrollY":516.8571428571428},
-{"id":10,"expanded":false,"name":"Sotano loquero","order":10,"parentId":9,"scrollX":998,"scrollY":906}
+{"id":1,"expanded":false,"name":"1F","order":3,"parentId":2,"scrollX":1330,"scrollY":1062},
+{"id":2,"expanded":false,"name":"Casa Alice Interior","order":1,"parentId":0,"scrollX":499,"scrollY":453},
+{"id":3,"expanded":false,"name":"Loquero","order":5,"parentId":0,"scrollX":1071,"scrollY":1177},
+{"id":4,"expanded":true,"name":"Recepcion","order":6,"parentId":3,"scrollX":1064.5714285714284,"scrollY":503.1428571428571},
+{"id":5,"expanded":false,"name":"Consultorio","order":8,"parentId":3,"scrollX":841.7142857142857,"scrollY":1013.9999999999999},
+{"id":6,"expanded":false,"name":"Hospital","order":9,"parentId":0,"scrollX":1071.4285714285713,"scrollY":1182},
+{"id":7,"expanded":false,"name":"Baño","order":7,"parentId":3,"scrollX":841.7142857142857,"scrollY":516.8571428571428},
+null,
+{"id":9,"expanded":true,"name":"Presentación del Juego","order":10,"parentId":0,"scrollX":499,"scrollY":453},
+{"id":10,"expanded":true,"name":"Sala II","order":12,"parentId":9,"scrollX":1071,"scrollY":445},
+{"id":11,"expanded":false,"name":"Planta Baja","order":2,"parentId":2,"scrollX":1237,"scrollY":515},
+{"id":12,"expanded":false,"name":"Sala I","order":11,"parentId":9,"scrollX":1277,"scrollY":445},
+{"id":13,"expanded":false,"name":"Recamara de Alice - Día","order":4,"parentId":1,"scrollX":499,"scrollY":453}
 ]
