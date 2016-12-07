@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Casa de Alice Exterior","order":2,"parentId":2,"scrollX":1330.2857142857142,"scrollY":1062},
+{"id":2,"expanded":false,"name":"Mapas - Casa de Alice","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Loquero","order":5,"parentId":0,"scrollX":1071,"scrollY":1177},
+{"id":4,"expanded":true,"name":"Recepcion","order":6,"parentId":3,"scrollX":1064.5714285714284,"scrollY":503.1428571428571},
+{"id":5,"expanded":false,"name":"Consultorio","order":8,"parentId":3,"scrollX":841.7142857142857,"scrollY":1013.9999999999999},
+{"id":6,"expanded":false,"name":"Hospital","order":9,"parentId":0,"scrollX":1071.4285714285713,"scrollY":1182},
+{"id":7,"expanded":false,"name":"Baño","order":7,"parentId":3,"scrollX":841.7142857142857,"scrollY":516.8571428571428},
+{"id":8,"expanded":false,"name":"Game Over","order":13,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"Presentación del Juego","order":10,"parentId":0,"scrollX":499,"scrollY":453},
+{"id":10,"expanded":true,"name":"Sala II","order":12,"parentId":9,"scrollX":1277,"scrollY":445},
+{"id":11,"expanded":false,"name":"Planta Baja","order":3,"parentId":1,"scrollX":872.5714285714286,"scrollY":503.1428571428571},
+{"id":12,"expanded":true,"name":"Sala I","order":11,"parentId":9,"scrollX":832,"scrollY":445},
+{"id":13,"expanded":false,"name":"Recamara de Alice - Día","order":4,"parentId":1,"scrollX":832,"scrollY":640}
+]
